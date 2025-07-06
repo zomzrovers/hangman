@@ -27,5 +27,3 @@ The implementation preprocesses a given set of words to build up to a 7-gram mod
 
 -   **Practice Games**: Achieved an accuracy of approximately 64% to 66% over 500 practice games.
 -   **Recorded Games**: Maintained an accuracy of 62.5% over 1000 recorded games.
-
-## Thanks :)
